@@ -7,15 +7,15 @@
 
 
 "gym_app": {
-    "host": "ds117965.mlab.com",
-    "port": 17965,
-    "url": "mongodb://root:1234@ds117965.mlab.com:17965/gym_app_database",
-    "database": "gym_app_database",
-    "password": "1234",
-    "name": "gym_app_database",
-    "user": "root",
-    "connector": "mongodb"
-  },
+     "host": "localhost",
+     "port": 27017,
+     "url": "",
+     "database": "gym_app",
+     "password": "",
+     "name": "gym_app",
+     "user": "",
+     "connector": "mongodb"
+   },
 
   "emailDs": {
     "name": "emailDs",
